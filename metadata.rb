@@ -1,3 +1,4 @@
+name             "diamond"
 maintainer       "Brightcove"
 maintainer_email "cbarraford@brightcove.com"
 license          "All rights reserved"
